@@ -1,7 +1,7 @@
 import collectionobject from './collectionobject';
 import optionLists from './optionLists';
 
-module.exports = () => configContext => ({
+export default () => configContext => ({
   optionLists,
   extensions: {
     accessionattributes: {
