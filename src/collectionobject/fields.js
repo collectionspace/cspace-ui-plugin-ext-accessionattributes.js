@@ -167,13 +167,13 @@ export default (configContext) => {
       flowersJan: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersJan.name',
-              defaultMessage: 'Jan',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersJan.fullName',
               defaultMessage: 'Flowers Jan',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersJan.name',
+              defaultMessage: 'Jan',
             },
           }),
           view: {
@@ -187,13 +187,13 @@ export default (configContext) => {
       flowersFeb: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersFeb.name',
-              defaultMessage: 'Feb',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersFeb.fullName',
               defaultMessage: 'Flowers Feb',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersFeb.name',
+              defaultMessage: 'Feb',
             },
           }),
           view: {
@@ -207,13 +207,13 @@ export default (configContext) => {
       flowersMar: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersMar.name',
-              defaultMessage: 'Mar',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersMar.fullName',
               defaultMessage: 'Flowers Mar',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersMar.name',
+              defaultMessage: 'Mar',
             },
           }),
           view: {
@@ -227,13 +227,13 @@ export default (configContext) => {
       flowersApr: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersApr.name',
-              defaultMessage: 'Apr',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersApr.fullName',
               defaultMessage: 'Flowers Apr',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersApr.name',
+              defaultMessage: 'Apr',
             },
           }),
           view: {
@@ -247,13 +247,13 @@ export default (configContext) => {
       flowersMay: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersMay.name',
-              defaultMessage: 'May',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersMay.fullName',
               defaultMessage: 'Flowers May',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersMay.name',
+              defaultMessage: 'May',
             },
           }),
           view: {
@@ -267,13 +267,13 @@ export default (configContext) => {
       flowersJun: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersJun.name',
-              defaultMessage: 'Jun',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersJun.fullName',
               defaultMessage: 'Flowers Jun',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersJun.name',
+              defaultMessage: 'Jun',
             },
           }),
           view: {
@@ -287,13 +287,13 @@ export default (configContext) => {
       flowersJul: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersJul.name',
-              defaultMessage: 'Jul',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersJul.fullName',
               defaultMessage: 'Flowers Jul',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersJul.name',
+              defaultMessage: 'Jul',
             },
           }),
           view: {
@@ -307,13 +307,13 @@ export default (configContext) => {
       flowersAug: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersAug.name',
-              defaultMessage: 'Aug',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersAug.fullName',
               defaultMessage: 'Flowers Aug',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersAug.name',
+              defaultMessage: 'Aug',
             },
           }),
           view: {
@@ -327,13 +327,13 @@ export default (configContext) => {
       flowersSep: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersSep.name',
-              defaultMessage: 'Sep',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersSep.fullName',
               defaultMessage: 'Flowers Sep',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersSep.name',
+              defaultMessage: 'Sep',
             },
           }),
           view: {
@@ -347,13 +347,13 @@ export default (configContext) => {
       flowersOct: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersOct.name',
-              defaultMessage: 'Oct',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersOct.fullName',
               defaultMessage: 'Flowers Oct',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersOct.name',
+              defaultMessage: 'Oct',
             },
           }),
           view: {
@@ -367,13 +367,13 @@ export default (configContext) => {
       flowersNov: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersNov.name',
-              defaultMessage: 'Nov',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersNov.fullName',
               defaultMessage: 'Flowers Nov',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersNov.name',
+              defaultMessage: 'Nov',
             },
           }),
           view: {
@@ -387,13 +387,13 @@ export default (configContext) => {
       flowersDec: {
         [config]: {
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.flowersDec.name',
-              defaultMessage: 'Dec',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.flowersDec.fullName',
               defaultMessage: 'Flowers Dec',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.flowersDec.name',
+              defaultMessage: 'Dec',
             },
           }),
           view: {
@@ -408,13 +408,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsJan.name',
-              defaultMessage: 'Jan',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsJan.fullName',
               defaultMessage: 'Fruits Jan',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsJan.name',
+              defaultMessage: 'Jan',
             },
           }),
           view: {
@@ -426,13 +426,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsFeb.name',
-              defaultMessage: 'Feb',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsFeb.fullName',
               defaultMessage: 'Fruits Feb',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsFeb.name',
+              defaultMessage: 'Feb',
             },
           }),
           view: {
@@ -444,13 +444,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsMar.name',
-              defaultMessage: 'Mar',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsMar.fullName',
               defaultMessage: 'Fruits Mar',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsMar.name',
+              defaultMessage: 'Mar',
             },
           }),
           view: {
@@ -462,13 +462,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsApr.name',
-              defaultMessage: 'Apr',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsApr.fullName',
               defaultMessage: 'Fruits Apr',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsApr.name',
+              defaultMessage: 'Apr',
             },
           }),
           view: {
@@ -480,13 +480,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsMay.name',
-              defaultMessage: 'May',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsMay.fullName',
               defaultMessage: 'Fruits May',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsMay.name',
+              defaultMessage: 'May',
             },
           }),
           view: {
@@ -498,13 +498,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsJun.name',
-              defaultMessage: 'Jun',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsJun.fullName',
               defaultMessage: 'Fruits Jun',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsJun.name',
+              defaultMessage: 'Jun',
             },
           }),
           view: {
@@ -516,13 +516,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsJul.name',
-              defaultMessage: 'Jul',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsJul.fullName',
               defaultMessage: 'Fruits Jul',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsJul.name',
+              defaultMessage: 'Jul',
             },
           }),
           view: {
@@ -534,13 +534,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsAug.name',
-              defaultMessage: 'Aug',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsAug.fullName',
               defaultMessage: 'Fruits Aug',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsAug.name',
+              defaultMessage: 'Aug',
             },
           }),
           view: {
@@ -552,13 +552,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsSep.name',
-              defaultMessage: 'Sep',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsSep.fullName',
               defaultMessage: 'Fruits Sep',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsSep.name',
+              defaultMessage: 'Sep',
             },
           }),
           view: {
@@ -570,13 +570,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsOct.name',
-              defaultMessage: 'Oct',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsOct.fullName',
               defaultMessage: 'Fruits Oct',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsOct.name',
+              defaultMessage: 'Oct',
             },
           }),
           view: {
@@ -588,13 +588,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsNov.name',
-              defaultMessage: 'Nov',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsNov.fullName',
               defaultMessage: 'Fruits Nov',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsNov.name',
+              defaultMessage: 'Nov',
             },
           }),
           view: {
@@ -606,13 +606,13 @@ export default (configContext) => {
         [config]: {
           dataType: DATA_TYPE_BOOL,
           messages: defineMessages({
-            name: {
-              id: 'field.ext.accessionattributes.fruitsDec.name',
-              defaultMessage: 'Dec',
-            },
             fullName: {
               id: 'field.ext.accessionattributes.fruitsDec.fullName',
               defaultMessage: 'Fruits Dec',
+            },
+            name: {
+              id: 'field.ext.accessionattributes.fruitsDec.name',
+              defaultMessage: 'Dec',
             },
           }),
           view: {
