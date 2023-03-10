@@ -3,18 +3,24 @@ import fruitingForm from './fruiting';
 
 export default (configContext) => {
   const {
+    layoutComponents,
+    lib,
+    recordComponents,
+  } = configContext;
+
+  const {
     React,
-  } = configContext.lib;
+  } = lib;
 
   const {
     Row,
     Cols,
     Col,
-  } = configContext.layoutComponents;
+  } = layoutComponents;
 
   const {
     Field,
-  } = configContext.recordComponents;
+  } = recordComponents;
 
   return (
     <div>

@@ -1,12 +1,17 @@
 export default (configContext) => {
   const {
+    lib,
+    recordComponents,
+  } = configContext;
+
+  const {
     React,
-  } = configContext.lib;
+  } = lib;
 
   const {
     Field,
     InputTable,
-  } = configContext.recordComponents;
+  } = recordComponents;
 
   return (
     <InputTable name="flowers">
