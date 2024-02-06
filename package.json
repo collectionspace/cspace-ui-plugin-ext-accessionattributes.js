@@ -1,6 +1,6 @@
 {
   "name": "cspace-ui-plugin-ext-accessionattributes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Plant accession attributes extension plugin for the CollectionSpace UI",
   "author": "Ray Lee <ray.lee@lyrasis.org>",
   "license": "ECL-2.0",
